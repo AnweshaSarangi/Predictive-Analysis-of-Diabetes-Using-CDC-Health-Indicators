@@ -1,6 +1,6 @@
 # Final-Team-Project
 ## Predictive Analysis of Diabetes Using CDC Health Indicators
-#### This project is a part of the AAI-500: Probability and Statistics for Artificial Intelligence course in the Applied Artificial Intelligence Program at the University of San Diego (USD).
+ This project is a part of the AAI-500: Probability and Statistics for Artificial Intelligence course in the Applied Artificial Intelligence Program at the University of San Diego (USD).
 
 ### Description
 #### This project aims to analyze and predict diabetes status (diabetes, pre-diabetes, or healthy) using the CDC Diabetes Health Indicators dataset. By examining the relationships between lifestyle factors, demographic information, and health outcomes, we seek to identify key predictors and improve early detection of diabetes.
