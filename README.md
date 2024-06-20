@@ -5,6 +5,14 @@
 ### Description
  This project aims to analyze and predict diabetes status (diabetes, pre-diabetes, or healthy) using the CDC Diabetes Health Indicators dataset. By examining the relationships between lifestyle factors, demographic information, and health outcomes, we seek to identify key predictors and improve early detection of diabetes.
 
+### Technology Used
+The project utilizes the following technologies and libraries:
+ - Python: The primary programming language used for data preparation.
+ - Pandas: A powerful data manipulation and analysis library.
+ - NumPy: A library for numerical operations.
+ - Scikit-learn: A machine learning library used for preprocessing and feature engineering.
+ - Jupyter Notebook: An interactive environment for developing and presenting data preparation workflows.
+
 ### Installation 
  1. Clone the repository: `https://github.com/AnweshaSarangi/Final-Team-Project.git`
  2. Navigate to the project directory: `cd Final-Team-Project`
