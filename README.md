@@ -19,14 +19,19 @@ The project utilizes the following technologies and libraries:
  3. Install dependencies: `pip install -r requirements.txt`
 
 ### Usage
- 1. Open the Jupyter Notebook: `jupyter notebook`
+ 1. Open the Jupyter Notebook: `Jupyter Notebook`
  2. Run the analysis scripts in the provided order.
+    - `1. Data Preparation.ipynb`
+      This notebook contains all the steps necessary to clean and preprocess the data. It should be run first to ensure that the data is in the correct format for analysis.
+      Ensure the prepared data is saved correctly.
+    - `2. Data Analysis.ipynb`
+      This notebook performs the analysis of the prepared data. it should run after `1. Data Preparation.ipynb`.
 
 ### Team Members
 - A: [Anwesha Sarangi](https://github.com/AnweshaSarangi)
 Led the planning phase and initial approach, reviewed the project reports, supported model implementation
 - B: [Rajesh Sharma](https://github.com/Rajesh-Sharma-git)
-Research, data transformations, project documentation, and model analysis validation
+Conducted Research, data transformations, project documentation, and model analysis validation
 - C: [Soumi Ray](https://github.com/DrSoumiz)
 Executed data cleaning and EDA, and implemented and analyzed the model.
 
