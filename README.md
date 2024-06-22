@@ -23,3 +23,17 @@ The project utilizes the following technologies and libraries:
  2. Run the analysis scripts in the provided order.
 
 ### Team Members
+- A: [Anwesha Sarangi](https://github.com/AnweshaSarangi)
+Led the planning phase and initial approach, reviewed the project reports, supported model implementation
+- B: [Rajesh Sharma](https://github.com/Rajesh-Sharma-git)
+Research, data transformations, project documentation, and model analysis validation
+- C: [Soumi Ray](https://github.com/DrSoumiz)
+Executed data cleaning and EDA, and implemented and analyzed the model.
+
+### License
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+
+### Acknowledgments
+We would like to express our sincere gratitude to the following individuals for their invaluable support and contributions to this project:
+
+Professor Dr. Rakesh Das: For his guidance, support, and invaluable feedback throughout the course. His insights and expertise were instrumental in shaping this project.
