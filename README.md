@@ -5,6 +5,14 @@
 ### Description
  This project aims to analyze and predict diabetes status (diabetes, pre-diabetes, or healthy) using the CDC Diabetes Health Indicators dataset. By examining the relationships between lifestyle factors, demographic information, and health outcomes, we seek to identify key predictors and improve early detection of diabetes.
 
+### Methods Used
+- Data Research and Preparation
+- Exploratory Data Analysis
+- Data Cleaning & Imbalance Handling
+- Dimension Reduction
+- Model Evaluation & Selection
+- Hyperparameter Tuning
+
 ### Technology Used
 The project utilizes the following technologies and libraries:
  - Python: The primary programming language used for data preparation.
