@@ -25,7 +25,9 @@ The project utilizes the following technologies and libraries:
       This notebook contains all the steps necessary to clean and preprocess the data. It should be run first to ensure that the data is in the correct format for analysis.
       Ensure the prepared data is saved correctly.
     - `2. Data Analysis.ipynb`
-      This notebook performs the analysis of the prepared data. it should run after `1. Data Preparation.ipynb`.
+      This notebook performs the analysis of the prepared data. It should run after `1. Data Preparation.ipynb`.
+    - `3. Model Tuning.ipynb`
+      This notebook focuses on training machine learning models and tuning their hyperparameters. It includes model evaluation and selection to achieve the best performance. It should run after `2. Model Tuning.ipynb`.
 
 ### Team Members
 - A: [Anwesha Sarangi](https://github.com/AnweshaSarangi)
