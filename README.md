@@ -22,7 +22,7 @@ The project utilizes the following technologies and libraries:
  - Jupyter Notebook: An interactive environment for developing and presenting data preparation workflows.
 
 ### Installation 
- 1. Clone the repository: `https://github.com/AnweshaSarangi/Final-Team-Project.git`
+ 1. Clone the repository: `[https://github.com/AnweshaSarangi/Final-Team-Project.gi](https://github.com/AnweshaSarangi/Predictive-Analysis-of-Diabetes-Using-CDC-Health-Indicators.git)t`
  2. Navigate to the project directory: `cd Final-Team-Project`
  3. Install dependencies: `pip install -r requirements.txt`
 
